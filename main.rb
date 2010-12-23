@@ -1,3 +1,4 @@
+# my way
 require 'rubygems'
 require 'sinatra'
 
